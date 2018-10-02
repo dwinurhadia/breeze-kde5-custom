@@ -6,3 +6,6 @@ mkdir ~/.themes/Breeze-OB
 mkdir ~/.themes/Breeze-OB/openbox-3
 #### copy file in to this directory
 cp . ~/.themes/Breeze-OB/openbox-3
+
+end
+#hacktoberfest
